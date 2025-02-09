@@ -27,7 +27,7 @@ int main() {
     return 0;
 
 
-    //adcanced methode for faster results 
+    //adcanced method for faster results 
     #include <iostream>
 #include <unordered_set>
 #include <vector>
